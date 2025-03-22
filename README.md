@@ -1,16 +1,30 @@
-## Hi there 👋
+Muhammad Wasif
+💙 Flutter App Developer | 📱 Mobile UI/UX Enthusiast | 🚀 Building Scalable Apps
 
-<!--
-**muhammadwasif12/muhammadwasif12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔹 Passionate about crafting efficient, scalable, and user-friendly mobile applications.
+🔹 Specialized in Flutter & Dart for cross-platform app development.
+🔹 Exploring state management, API integration, and Firebase.
 
-Here are some ideas to get you started:
+🛠 Tech Stack
+🔹 Languages: Dart, Java, C++
+🔹 Frameworks: Flutter, Provider, Riverpod, Bloc
+🔹 Tools: Android Studio, VS Code, Git, Firebase
+🔹 Database: Firebase Firestore, SQLite
+🔹 Version Control: Git & GitHub
+🔹 UI/UX: Material Design, Figma
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📊 GitHub Stats
+![Muhammad Wasif's GitHub Stats](https://github-readme-stats.vercel.app/api?username=muhammadwasif12&show_icons=true&theme=tokyonight)
+
+📱 Featured Projects
+🚀 [Expense Tracker App] – A Flutter app for [Short Description].
+🔗 https://github.com/muhammadwasif12/expense_tracker.git 
+
+🚀 [Meals App] – Built using Flutter, Provider.
+🔗 Project Link
+
+📬 Let's Connect!
+💼 LinkedIn: Muhammad Wasif Shah
+💻 GitHub: github.com/muhammadwasif12
+📧 Email: muhammadwasifshah629@gamil.com
+
