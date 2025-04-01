@@ -21,7 +21,7 @@ Muhammad Wasif
 🔗 https://github.com/muhammadwasif12/expense_tracker.git 
 
 🚀 [Meals App] – Built using Flutter, Provider.
-🔗 Project Link
+🔗 https://github.com/muhammadwasif12/Meals_App.git
 
 📬 Let's Connect!
 💼 LinkedIn: Muhammad Wasif Shah
