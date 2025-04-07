@@ -23,6 +23,9 @@ Muhammad Wasif
 🚀 [Meals App] – Built using Flutter, Provider.
 🔗 https://github.com/muhammadwasif12/Meals_App.git
 
+🚀 [Movie Vault_app] – Built using Flutter, Provider.
+🔗 https://github.com/muhammadwasif12/InternIntelligence_MovieVault_app
+
 📬 Let's Connect!
 💼 LinkedIn: Muhammad Wasif Shah
 💻 GitHub: github.com/muhammadwasif12
