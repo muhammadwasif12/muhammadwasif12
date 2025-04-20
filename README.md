@@ -26,6 +26,9 @@ Muhammad Wasif
 🚀 [Movie Vault_app] – Built using Flutter, Provider.
 🔗 https://github.com/muhammadwasif12/InternIntelligence_MovieVault_app
 
+🚀 [Face Detector App] – Built using Flutter, Riverpod.
+🔗 https://github.com/muhammadwasif12/InternIntelligence_Face_Detector_App
+
 📬 Let's Connect!
 💼 LinkedIn: Muhammad Wasif Shah
 💻 GitHub: github.com/muhammadwasif12
