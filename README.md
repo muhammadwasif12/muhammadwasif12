@@ -23,12 +23,14 @@ Muhammad Wasif
 🚀 [Meals App] – Built using Flutter, Provider.
 🔗 https://github.com/muhammadwasif12/Meals_App.git
 
-🚀 [Movie Vault_app] – Built using Flutter, Provider.
+🚀 [Movie Vault_app] – Built using Flutter, Provider, RestAPI's.
 🔗 https://github.com/muhammadwasif12/InternIntelligence_MovieVault_app
 
-🚀 [Face Detector App] – Built using Flutter, Riverpod.
+🚀 [Face Detector App] – Built using Flutter, Riverpod, Google ML kit.
 🔗 https://github.com/muhammadwasif12/InternIntelligence_Face_Detector_App
 
+🚀 [Task Manager App] – Built using Flutter, Riverpod, Shared Preference.
+🔗 https://github.com/muhammadwasif12/task_manager_app
 📬 Let's Connect!
 💼 LinkedIn: Muhammad Wasif Shah
 💻 GitHub: github.com/muhammadwasif12
