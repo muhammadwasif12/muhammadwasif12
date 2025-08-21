@@ -2,13 +2,13 @@
 
 <div align="center">
   
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=🚀+Flutter+App+Developer;📱+Mobile+UI%2FUX+Specialist;💡+DSA+%26+Problem+Solver;🔥+Building+Scalable+Solutions;⚡+Cross-Platform+Expert)
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=🚀+Flutter+App+Developer;📱+Mobile+UI%2FUX+Specialist;🧩+DSA+%26+LeetCode+Enthusiast;💡+Problem+Solving+Expert;⚡+Building+Scalable+Solutions)
   
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
   
   [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white)](https://m-wasif.netlify.app)
   [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-4ECDC4?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-wasif-%F0%9F%87%B5%F0%9F%87%B0-b97577347)
-  [![LeetCode](https://img.shields.io/badge/💻_LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/muhammadwasif12)
+  [![LeetCode](https://img.shields.io/badge/🧩_LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/MuhammadWasif/)
   [![Email](https://img.shields.io/badge/📧_Email-FF9F1C?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammadwasifshah629@gmail.com)
 
 </div>
@@ -23,22 +23,23 @@ class MuhammadWasif extends FlutterDeveloper {
   String location = "Okara, Pakistan 🇵🇰";
   List<String> currentFocus = [
     "🔥 Advanced Flutter Development",
-    "📊 Data Structures & Algorithms",
     "🧩 LeetCode Problem Solving",
+    "📊 Data Structures & Algorithms",
     "🎨 Beautiful UI/UX Design",
     "⚡ Performance Optimization"
   ];
   
-  Map<String, int> stats = {
+  Map<String, dynamic> stats = {
     "Apps Built": 10,
     "GitHub Repos": 21,
-    "DSA Problems Solved": "Growing Daily 📈",
+    "LeetCode Journey": "Just Started! 🌟",
+    "Target 2025": "100 Problems Solved 🎯",
     "Coffee Consumed": "∞"
   };
   
   @override
   String getMotivation() => 
-    "Turning complex problems into elegant solutions! 🚀";
+    "Starting my LeetCode journey today! 🚀";
 }
 ```
 
@@ -76,15 +77,6 @@ class MuhammadWasif extends FlutterDeveloper {
 
 </div>
 
-### **Problem Solving & DSA**
-<div align="center">
-
-![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)
-![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
-![CodeForces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)
-
-</div>
-
 ## 📊 GitHub Analytics
 
 <div align="center">
@@ -100,151 +92,194 @@ class MuhammadWasif extends FlutterDeveloper {
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammadwasif12&theme=high-contrast&hide_border=true&bg_color=0D1117&color=F85D7F&line=F8D866&point=FFFFFF" width="100%"/>
 </div>
 
-## 🏆 Premium Project Portfolio
+## 🧩 LeetCode Journey
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="600">
 </div>
 
-### 🌟 **Featured Applications**
-
-<table>
-<tr>
-<td width="33%">
+### **🎯 DSA Progress Tracker**
 
 <div align="center">
 
-### 🕌 [Islamic Toolkit](https://github.com/muhammadwasif12/islamic_toolkit_app)
-<img src="https://img.shields.io/badge/Flutter-Premium_App-00D9FF?style=for-the-badge" />
-
-**Complete Islamic Companion**
-- 📿 Digital Tasbih Counter
-- 🧭 Accurate Qibla Direction  
-- 📖 Daily Duas Collection
-- 🎨 **Material 3 Design**
-- ⚡ **Offline Functionality**
+[![LeetCode](https://img.shields.io/badge/LeetCode-MuhammadWasif-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/MuhammadWasif/)
 
 </div>
-
-</td>
-<td width="33%">
-
-<div align="center">
-
-### 🎬 [Movie Vault](https://github.com/muhammadwasif12/InternIntelligence_MovieVault_app)
-<img src="https://img.shields.io/badge/Flutter-Entertainment-FF6B6B?style=for-the-badge" />
-
-**Ultimate Movie Experience**
-- 🍿 TMDB API Integration
-- ⭐ Advanced Rating System
-- 💾 Offline Watchlist
-- 🎨 **Stunning Animations**
-- 📱 **Responsive Design**
-
-</div>
-
-</td>
-<td width="33%">
-
-<div align="center">
-
-### ✅ [Task Manager Pro](https://github.com/muhammadwasif12/task_manager_app)
-<img src="https://img.shields.io/badge/Flutter-Productivity-4ECDC4?style=for-the-badge" />
-
-**Smart Task Management**
-- 📊 Visual Progress Charts
-- 🔐 Secure Authentication
-- 💾 Local Data Storage
-- ✨ **Smooth Animations**
-- 🎯 **Clean Architecture**
-
-</div>
-
-</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td width="50%">
-
-<div align="center">
-
-### 📍 [Favorite Places](https://github.com/muhammadwasif12/favorite_places_app)
-<img src="https://img.shields.io/badge/Flutter-Location_Based-FFA116?style=for-the-badge" />
-
-**Smart Location Companion**
-- 🗺️ **Google Maps Integration**
-- 📸 **Camera & Gallery Support**
-- 💾 **SQLite Database**
-- 🎨 **Beautiful UI/UX**
-- ⚡ **Real-time Location**
-
-**Tech Stack:** Flutter • Provider • Google Maps • SQLite • Camera
-
-</div>
-
-</td>
-<td width="50%">
-
-<div align="center">
-
-### 🔍 [Face Detector AI](https://github.com/muhammadwasif12/InternIntelligence_Face_Detector_App)
-<img src="https://img.shields.io/badge/Flutter-AI_Powered-9C27B0?style=for-the-badge" />
-
-**Advanced AI Integration**
-- 🤖 **Google ML Kit**
-- 📷 **Real-time Detection**
-- 🎯 **Multi-face Support**
-- ⚡ **Optimized Performance**
-- 🔥 **Riverpod State Management**
-
-**Tech Stack:** Flutter • Riverpod • ML Kit • Camera • Image Processing
-
-</div>
-
-</td>
-</tr>
-</table>
-
-### 💎 **Additional Showcase Projects**
-
-<div align="center">
-
-| 💰 [Expense Tracker](https://github.com/muhammadwasif12/expense_tracker.git) | 🍕 [Meals App](https://github.com/muhammadwasif12/Meals_App.git) | 🛒 [Shopping List](https://github.com/muhammadwasif12/Shopping_List) | 📊 [BMI Calculator](https://github.com/muhammadwasif12/bmi_calculator) |
-|:---:|:---:|:---:|:---:|
-| Category-wise tracking | Recipe discovery platform | Firebase-powered list | Health calculation tool |
-| Visual reports & analytics | Meal planning features | Real-time synchronization | BMI recommendations |
-| Budget management | Nutritional information | Undo/Redo functionality | Clean Material Design |
-
-</div>
-
-## 💡 DSA & Problem Solving Journey
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="400">
-</div>
-
-### 🧩 **Current Focus Areas**
 
 ```cpp
-class DSAProgress {
-    vector<string> topics = {
-        "📊 Arrays & Strings",
-        "🔗 Linked Lists", 
-        "🌳 Trees & Graphs",
-        "🔄 Dynamic Programming",
-        "⚡ Algorithms & Optimization"
-    };
-    
-    string dailyGoal = "Solve 2-3 LeetCode problems daily 🎯";
-    string motivation = "Every problem solved is a step closer to mastery! 🚀";
+class LeetCodeProgress {
+    private:
+        string username = "MuhammadWasif";
+        int currentProblems = 0;  // Starting today! 🚀
+        int targetProblems = 100; // 2025 Goal 🎯
+        
+    public:
+        vector<string> focusAreas = {
+            "📊 Arrays & Strings - Foundation Building",
+            "🔗 Linked Lists - Pointer Mastery", 
+            "🌳 Binary Trees - Recursive Thinking",
+            "🔄 Dynamic Programming - Optimization",
+            "⚡ Algorithms - Problem Solving Patterns"
+        };
+        
+        string dailyCommitment = "Solve 1-2 problems daily 💪";
+        string startDate = "August 21, 2025 - Today! 🎉";
 };
 ```
 
+### **📈 2025 LeetCode Goals**
+
 <div align="center">
 
-![LeetCode Stats](https://leetcode-stats-six.vercel.app/api?username=muhammadwasif12&theme=dark)
+| **Milestone** | **Target** | **Status** |
+|:---:|:---:|:---:|
+| 🏁 **Journey Start** | Today! | ✅ **STARTED** |
+| 🎯 **First 25 Problems** | End of September | 🔄 **IN PROGRESS** |
+| 🚀 **50 Problems Milestone** | End of October | ⏳ **UPCOMING** |
+| 🏆 **100 Problems Goal** | End of 2025 | 🎯 **TARGET** |
+
+![Progress](https://img.shields.io/badge/Progress-0%2F100_Problems-orange?style=for-the-badge)
+![Streak](https://img.shields.io/badge/Current_Streak-Starting_Today!-green?style=for-the-badge)
+
+</div>
+
+## 🏆 Premium App Showcase
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+  
+  ### **🌟 Featured Mobile Applications**
+</div>
+
+---
+
+### **🕌 Islamic Toolkit App - Spiritual Companion**
+<div align="center">
+  <img src="https://img.shields.io/badge/⭐_FEATURED_APP-00D9FF?style=for-the-badge" />
+</div>
+
+**🔗 [View Project](https://github.com/muhammadwasif12/islamic_toolkit_app)**
+
+<div align="left">
+
+**📱 Complete Islamic Mobile Experience:**
+- 📿 **Digital Tasbih Counter** - Beautiful, customizable counter with haptic feedback
+- 🧭 **Accurate Qibla Direction** - GPS-based precise Qibla finder with compass
+- 📖 **Daily Duas Collection** - Comprehensive collection with Arabic text & translations
+- 🎨 **Material 3 Design** - Modern, clean interface following latest design principles
+- ⚡ **Offline Functionality** - Works perfectly without internet connection
+- 🌙 **Dark/Light Themes** - Beautiful themes for day and night usage
+
+**🛠️ Tech Stack:** `Flutter` `Dart` `Provider` `Geolocator` `Compass` `SharedPreferences`
+
+</div>
+
+---
+
+### **🎬 Movie Vault - Entertainment Hub**
+<div align="center">
+  <img src="https://img.shields.io/badge/⭐_POPULAR_APP-FF6B6B?style=for-the-badge" />
+</div>
+
+**🔗 [View Project](https://github.com/muhammadwasif12/InternIntelligence_MovieVault_app)**
+
+<div align="left">
+
+**🍿 Ultimate Movie Discovery Platform:**
+- 🔍 **Advanced Movie Search** - Find any movie with powerful search functionality
+- ⭐ **Smart Rating System** - View ratings from multiple sources
+- 💾 **Personal Watchlist** - Save movies for later viewing
+- 📱 **Responsive Design** - Perfect experience on all screen sizes
+- 🎭 **Detailed Movie Info** - Cast, crew, plot, trailers, and more
+- 🔥 **Trending Movies** - Stay updated with latest blockbusters
+
+**🛠️ Tech Stack:** `Flutter` `Provider` `TMDB API` `HTTP` `Cached Network Image`
+
+</div>
+
+---
+
+### **✅ Task Manager Pro - Productivity Master**
+<div align="center">
+  <img src="https://img.shields.io/badge/⭐_PRODUCTIVITY_APP-4ECDC4?style=for-the-badge" />
+</div>
+
+**🔗 [View Project](https://github.com/muhammadwasif12/task_manager_app)**
+
+<div align="left">
+
+**🎯 Smart Task Management Solution:**
+- 📊 **Visual Progress Charts** - Beautiful charts showing task completion stats
+- 🔐 **Secure Authentication** - Login system with form validation
+- 📝 **Task Categories** - Organize tasks with custom categories and colors
+- ✨ **Smooth Animations** - Delightful micro-interactions throughout the app
+- 💾 **Local Storage** - Fast, reliable data persistence
+- 🎨 **Clean Architecture** - Well-structured, maintainable codebase
+
+**🛠️ Tech Stack:** `Flutter` `Riverpod` `SharedPreferences` `FL Chart` `Animations`
+
+</div>
+
+---
+
+### **📍 Favorite Places - Location Explorer**
+<div align="center">
+  <img src="https://img.shields.io/badge/⭐_LOCATION_APP-FFA116?style=for-the-badge" />
+</div>
+
+**🔗 [View Project](https://github.com/muhammadwasif12/favorite_places_app)**
+
+<div align="left">
+
+**🗺️ Smart Location Management:**
+- 🌍 **Google Maps Integration** - Interactive maps with custom markers
+- 📸 **Camera & Gallery Support** - Capture and attach photos to places
+- 🎯 **GPS Location Services** - Automatic location detection and manual selection
+- 💾 **SQLite Database** - Robust local data storage
+- 🔍 **Search & Filter** - Find your saved places quickly
+- 🎨 **Beautiful UI/UX** - Intuitive interface with smooth navigation
+
+**🛠️ Tech Stack:** `Flutter` `Provider` `Google Maps` `SQLite` `Image Picker` `Location`
+
+</div>
+
+---
+
+### **🔍 Face Detector AI - ML Powered**
+<div align="center">
+  <img src="https://img.shields.io/badge/⭐_AI_APP-9C27B0?style=for-the-badge" />
+</div>
+
+**🔗 [View Project](https://github.com/muhammadwasif12/InternIntelligence_Face_Detector_App)**
+
+<div align="left">
+
+**🤖 Advanced AI Face Detection:**
+- 🎯 **Real-time Face Detection** - Live camera feed with instant face recognition
+- 👥 **Multi-face Support** - Detect and track multiple faces simultaneously
+- 📷 **Image Processing** - Process images from gallery or camera
+- ⚡ **Optimized Performance** - Smooth 60fps detection with efficient processing
+- 🔥 **Google ML Kit** - Cutting-edge machine learning capabilities
+- 📊 **Detection Analytics** - Face confidence scores and bounding boxes
+
+**🛠️ Tech Stack:** `Flutter` `Riverpod` `Google ML Kit` `Camera` `Image Processing`
+
+</div>
+
+---
+
+## 🎨 Additional Quality Projects
+
+<div align="center">
+
+### **💎 More Amazing Apps**
+
+| **💰 Expense Tracker** | **🍕 Meals Discovery** | **🛒 Smart Shopping** | **📊 BMI Calculator** |
+|:---:|:---:|:---:|:---:|
+| [View Code](https://github.com/muhammadwasif12/expense_tracker.git) | [View Code](https://github.com/muhammadwasif12/Meals_App.git) | [View Code](https://github.com/muhammadwasif12/Shopping_List) | [View Code](https://github.com/muhammadwasif12/bmi_calculator) |
+| Category-wise expense tracking | Recipe discovery with meal planning | Firebase-powered shopping lists | Health-focused BMI calculation |
+| Visual charts & analytics | Nutritional information display | Real-time sync across devices | Personalized health recommendations |
+| Budget management system | Favorite recipes collection | Undo/Redo functionality | Clean Material Design interface |
 
 </div>
 
@@ -252,93 +287,92 @@ class DSAProgress {
 
 <div align="center">
 
-| **Mobile Development** | **Problem Solving** | **UI/UX Design** | **Architecture** |
+### **🚀 Core Competencies**
+
+| **📱 Mobile Development** | **🧩 Problem Solving** | **🎨 UI/UX Design** | **🏗️ Architecture** |
 |:---:|:---:|:---:|:---:|
-| 🚀 Cross-platform Apps | 🧩 DSA Mastery | 🎨 Material Design | 🏗️ Clean Code |
-| ⚡ Performance Optimization | 💡 Algorithm Design | ✨ Custom Animations | 🔄 State Management |
-| 📱 Responsive Design | 🎯 LeetCode Solutions | 🖼️ Figma Prototyping | 🧪 Testing Strategy |
-| 🔥 Modern Flutter | 📊 Data Structures | 👥 User Experience | 🚀 Scalable Solutions |
+| Cross-platform Flutter Apps | DSA & Algorithm Design | Material Design Systems | Clean Code Architecture |
+| Performance Optimization | LeetCode Problem Solving | Custom Animation Creation | State Management Patterns |
+| Responsive UI Development | Data Structure Implementation | Figma to Flutter Conversion | Testing & Quality Assurance |
+| API Integration & Management | Logical Thinking & Analysis | User Experience Optimization | Scalable App Architecture |
 
 </div>
 
 ## 🌟 Development Philosophy
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="300">
+  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400">
 </div>
 
 ```yaml
-Mission: "Crafting Digital Experiences That Matter"
+Mission: "Creating Digital Solutions That Make a Difference"
 
-Core Values:
-  ✨ Clean, Maintainable Code
-  🎨 Beautiful, Intuitive Design  
-  ⚡ Performance & Scalability
-  🧩 Problem-Solving Excellence
+Core Principles:
+  ✨ Write Clean, Readable Code
+  🎨 Design Beautiful, Intuitive Interfaces
+  ⚡ Build Fast, Scalable Applications
+  🧩 Solve Problems Systematically
   
 Development Approach:
   🏗️ Architecture: Clean Architecture + SOLID Principles
-  🧪 Testing: Unit, Widget, and Integration Tests
-  🔄 Methodology: Agile Development Process
-  📱 Design: Mobile-First, User-Centric Approach
+  🧪 Quality: Comprehensive Testing Strategy
+  🔄 Process: Agile Development Methodology
+  📱 Focus: Mobile-First, User-Centric Design
   
-Daily Routine:
-  🌅 Morning: DSA Problem Solving
-  ⚡ Day: Flutter Development
-  🌙 Evening: Learning New Technologies
+Daily Routine (Starting Today!):
+  🌅 Morning: LeetCode Problem Solving (1-2 problems)
+  ⚡ Day: Flutter Development & Project Building
+  📚 Evening: Learning Advanced Concepts
+  🎯 Goal: Consistent Progress Every Single Day
 ```
 
-## 📈 2025 Goals & Achievements
+## 📈 2025 Roadmap & Goals
 
 <div align="center">
 
-### 🎯 **Current Achievements**
-![Repos](https://img.shields.io/badge/Repositories-21-FF6B6B?style=for-the-badge)
-![Commits](https://img.shields.io/badge/Commits_2025-78+-4ECDC4?style=for-the-badge)
-![Apps](https://img.shields.io/badge/Apps_Built-10+-FFA116?style=for-the-badge)
-![Stars](https://img.shields.io/badge/GitHub_Stars-10-9C27B0?style=for-the-badge)
+### **🎯 This Year's Targets**
 
-### 🚀 **2025 Targets**
-- 🏆 **500+ LeetCode Problems Solved**
-- 📱 **Launch 5 Production Apps**
-- 🌟 **1000+ GitHub Stars**
-- 💼 **Remote Flutter Position**
-- 🎓 **Advanced Flutter Certification**
+![LeetCode Goal](https://img.shields.io/badge/LeetCode-100_Problems-FFA116?style=for-the-badge)
+![App Goal](https://img.shields.io/badge/New_Apps-5_Production_Apps-4ECDC4?style=for-the-badge)
+![GitHub Goal](https://img.shields.io/badge/GitHub-1000+_Stars-FF6B6B?style=for-the-badge)
+
+### **🚀 Major Milestones**
+- 🏆 **Complete 100 LeetCode Problems** (Starting Today!)
+- 📱 **Launch 5 Production-Ready Apps**
+- 🌟 **Reach 1000+ GitHub Stars**
+- 💼 **Secure Remote Flutter Position**
+- 🎓 **Master Advanced Flutter Concepts**
+- 🧩 **Become DSA Problem Solving Expert**
+
+### **📊 Current Stats**
+![Repos](https://img.shields.io/badge/Repositories-21-success?style=for-the-badge)
+![Apps](https://img.shields.io/badge/Apps_Built-10+-blue?style=for-the-badge)
+![Commits](https://img.shields.io/badge/2025_Commits-78+-orange?style=for-the-badge)
 
 </div>
 
-## 🎨 Creative Showcase
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="800">
-</div>
-
-### **What Sets My Apps Apart:**
-- 🎭 **Stunning Visual Design** - Every pixel crafted with care
-- ⚡ **Lightning Fast Performance** - Optimized for all devices  
-- 🧠 **Intelligent Architecture** - Scalable and maintainable code
-- 🌊 **Smooth Animations** - Delightful user interactions
-- 🔒 **Robust Security** - Data protection and privacy first
-
-## 📫 Let's Build Something Extraordinary!
+## 📫 Let's Connect & Build Together!
 
 <div align="center">
   
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="300">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="400">
 
 ### **🚀 Ready to Collaborate?**
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_My_Work-FF6B6B?style=for-the-badge&logo=vercel)](https://m-wasif.netlify.app)
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Let's_Connect-4ECDC4?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/muhammad-wasif-%F0%9F%87%B5%F0%9F%87%B0-b97577347)
-[![LeetCode](https://img.shields.io/badge/💻_LeetCode-Follow_Journey-FFA116?style=for-the-badge&logo=leetcode)](https://leetcode.com/muhammadwasif12)
-[![Email](https://img.shields.io/badge/📧_Email-Let's_Talk-FF9F1C?style=for-the-badge&logo=gmail)](mailto:muhammadwasifshah629@gmail.com)
+[![Portfolio](https://img.shields.io/badge/🌐_My_Portfolio-Explore_My_Work-FF6B6B?style=for-the-badge&logo=vercel)](https://m-wasif.netlify.app)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Professional_Network-4ECDC4?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/muhammad-wasif-%F0%9F%87%B5%F0%9F%87%B0-b97577347)
+[![LeetCode](https://img.shields.io/badge/🧩_LeetCode-Follow_My_Journey-FFA116?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/MuhammadWasif/)
+[![Email](https://img.shields.io/badge/📧_Email-Let's_Discuss_Projects-FF9F1C?style=for-the-badge&logo=gmail)](mailto:muhammadwasifshah629@gmail.com)
 
-### **🔥 Open For:**
-- 📱 **Flutter App Development Projects**
-- 💼 **Remote Development Opportunities** 
-- 🤝 **Open Source Collaborations**
-- 🎓 **Mentoring & Knowledge Sharing**
-- 🚀 **Innovative Tech Solutions**
+### **🔥 Currently Available For:**
+- 📱 **Flutter Mobile App Development**
+- 💼 **Remote Development Opportunities**
+- 🤝 **Open Source Project Collaborations**
+- 🎓 **Code Reviews & Technical Mentoring**
+- 🚀 **Innovative Tech Solution Building**
+
+### **💡 Fun Fact:**
+*Today marks the beginning of my LeetCode journey! Following my progress as I work towards solving 100 problems this year! 🎯*
 
 </div>
 
@@ -348,12 +382,13 @@ Daily Routine:
   
   ![Profile Views](https://komarev.com/ghpvc/?username=muhammadwasif12&color=FF6B6B&style=for-the-badge&label=PROFILE+VIEWS)
   
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="600">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="500">
   
-  ### **"Code is Art, Apps are Masterpieces"** ✨
+  ### **"Every Problem Solved is a Step Towards Mastery"** 🧩✨
   
-  **⭐ If my work inspires you, star my repositories!**
+  **🌟 Starting my LeetCode journey today - August 21, 2025!**
+  **⭐ If my projects inspire you, please star my repositories!**
   
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="200">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="300">
 
 </div>
