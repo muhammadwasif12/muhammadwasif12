@@ -21,7 +21,7 @@
 - 🧠 Deep-diving into **RAG, AI Agents, Embeddings, Vector DBs, and On-Device AI** to become a genuine Mobile + AI Engineer.
 - 🌱 Currently sharpening **DSA (NeetCode 150)**, **FastAPI**, and **Prompt Engineering** — daily, no skipping.
 - 📱 Already shipped apps to the **Play Store** with real users.
-- 💡 Goal: be the strongest AI-capable mobile developer — with a GitHub history that holds up to international remote-job standards.
+- 💡 Goal: be the strongest AI-capable mobile developer in my class — with a GitHub history that holds up to international remote-job standards.
 - ⚡ Fun fact: I believe most "pure Flutter" devs can't ship AI features properly, and most "pure AI" devs can't ship a polished app — I'm closing that gap.
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
@@ -119,7 +119,7 @@ Proof-of-Quality
   <a href="https://www.linkedin.com/in/muhammad-wasif-ps-b97577347"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
   <a href="mailto:muhammadwasifshah629@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;
   <a href="https://github.com/muhammadwasif12"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>&nbsp;
-  <a href="https://instagram.com/wasif.dev"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;
+  <a href="https://www.instagram.com/wasif.dev"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;
   <a href="https://leetcode.com/u/MuhammadWasif/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
 </p>
 
