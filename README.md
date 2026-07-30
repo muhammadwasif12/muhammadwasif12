@@ -98,10 +98,10 @@ Proof-of-Quality
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
-## 📈 Activity Graph
+## 🚀 Let's Build Something Amazing
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammadwasif12&theme=react-dark&hide_border=true&bg_color=0A101F&color=22D3EE&line=A78BFA&point=FFFFFF&area=true&area_color=A78BFA" width="95%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A101F,50:6D28D9,100:22D3EE&height=200&section=header&text=Let's%20Build%20Something%20Amazing&fontSize=36&fontColor=FFFFFF&animation=fadeIn&desc=Flutter%20%C2%B7%20AI%20%C2%B7%20Mobile%20Engineering&descSize=18&descAlignY=75" width="100%" />
 </p>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
