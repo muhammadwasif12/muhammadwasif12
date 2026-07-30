@@ -93,7 +93,7 @@ Proof-of-Quality
 </p>
 
 <p align="center">
-  <img src="https://github-stats-extended-frontend-weld.vercel.app/api/streak/?user=muhammadwasif12&hide_border=true&background=0A101F&ring=A78BFA&fire=22D3EE&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=8B95A5" width="70%" />
+  <img src="https://streak-stats.demolab.com/?user=muhammadwasif12&hide_border=true&background=0A101F&ring=A78BFA&fire=22D3EE&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=8B95A5&stroke=0A101F" width="70%" />
 </p>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
