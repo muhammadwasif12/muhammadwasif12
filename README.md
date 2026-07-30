@@ -98,10 +98,10 @@ Proof-of-Quality
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
-## 🏆 Trophy Showcase
+## 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=muhammadwasif12&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammadwasif12&theme=react-dark&hide_border=true&bg_color=0A101F&color=22D3EE&line=A78BFA&point=FFFFFF&area=true&area_color=A78BFA" width="95%" />
 </p>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
@@ -117,7 +117,7 @@ Proof-of-Quality
 ## 📫 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/muhammad-wasif-b97577347"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
+  <a href="https://www.linkedin.com/in/muhammad-wasif-%F0%9F%87%B5%F0%9F%87%B8-b97577347/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
   <a href="mailto:muhammadwasifshah629@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;
   <a href="https://github.com/muhammadwasif12"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>&nbsp;
   <a href="https://www.instagram.com/wasif.dev"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;
