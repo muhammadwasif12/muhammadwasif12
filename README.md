@@ -21,7 +21,7 @@
 - 🧠 Deep-diving into **RAG, AI Agents, Embeddings, Vector DBs, and On-Device AI** to become a genuine Mobile + AI Engineer.
 - 🌱 Currently sharpening **DSA (NeetCode 150)**, **FastAPI**, and **Prompt Engineering** — daily, no skipping.
 - 📱 Already shipped apps to the **Play Store** with real users.
-- 💡 Goal: be the strongest AI-capable mobile developer in my class — with a GitHub history that holds up to international remote-job standards.
+- 💡 Goal: be the strongest AI-capable mobile developer — with a GitHub history that holds up to international remote-job standards.
 - ⚡ Fun fact: I believe most "pure Flutter" devs can't ship AI features properly, and most "pure AI" devs can't ship a polished app — I'm closing that gap.
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
